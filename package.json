@@ -1,8 +1,8 @@
 {
   "name": "static",
-  "version": "0.0.2",
-  "author": "Pedro Rogério <pinceladasdaweb@hotmail.com>",
-  "description": "A example to loading basic HTML in NodeJS",
+  "version": "0.0.1",
+  "author": "Luciano Piassi <elemento75@icloud.com>",
+  "description": "Exemplo de nodejs no heroku",
   "engines":{
     "node": "0.8.x",
     "npm": "1.1.x"
